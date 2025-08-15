@@ -1,0 +1,67 @@
+/* Fontes: Pacifico (título), Quicksand (texto) */
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    background: #ffe6f0;
+    color: #880e4f;
+  }
+  
+  header {
+    background-color: #ffb6c1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    font-size: 2.5em;
+    margin: 0;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  section h2 {
+    font-family: 'Pacifico', cursive;
+    color: #d81b60;
+    font-size: 2em;
+  }
+  
+  section p, section ul {
+    font-size: 1.1em;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background: #fff0f5;
+    border: 2px dashed #f06292;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  
+  footer {
+    background-color: #ffb6c1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1em;
+    margin-top: 40px;
+  }
+  
